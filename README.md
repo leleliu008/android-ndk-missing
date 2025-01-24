@@ -16,5 +16,6 @@ source: https://android.googlesource.com/platform/bionic/+/72dc1c22dc6a92dea9253
 reference: https://pubs.opengroup.org/onlinepubs/9799919799/functions/posix_spawn.html
 
 source:
-    - https://android.googlesource.com/platform/bionic/+/master/libc/include/spawn.h
-    - https://android.googlesource.com/platform/bionic/+/master/libc/bionic/spawn.cpp
+
+- https://android.googlesource.com/platform/bionic/+/master/libc/include/spawn.h
+- https://android.googlesource.com/platform/bionic/+/master/libc/bionic/spawn.cpp
